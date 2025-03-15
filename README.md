@@ -64,7 +64,7 @@ Lack of controls and compliance adherence increases vulnerability.
 📅 **Audit Date:** 17th March 2024  
 👤 **Auditor:** Genesis Varelli  
 
-**Objective:** Assess the security posture of SY Electronics Ltd., focusing on SOC (Security Operations Center) functions: log analysis, incident response, and compliance monitoring.
+**Objective:** Assess the security posture of SY Electronics Ltd., focusing on SOC (Security Operations Centre) functions: log analysis, incident response, and compliance monitoring.
 
 ---
 
@@ -82,7 +82,7 @@ Lack of controls and compliance adherence increases vulnerability.
 | Antivirus Software | ✅ | Installed and monitored. |
 | Legacy System Maintenance | ❌ | No structured maintenance schedule. |
 | Encryption | ❌ | No encryption for sensitive data. |
-| Password Management System | ❌ | No centralized password management system. |
+| Password Management System | ❌ | No centralised password management system. |
 | Physical Security (Locks, CCTV, Fire Prevention) | ✅ | All security measures are in place. |
 
 ---
@@ -128,8 +128,7 @@ Lack of controls and compliance adherence increases vulnerability.
 🔹 **Encrypt sensitive data** to enhance security and compliance.  
 🔹 Introduce **separation of duties** to improve operational security.  
 
-📌 **Next Steps:** Address compliance gaps, enforce security best practices, and establish a structured approach to risk mitigation.
-
 ---
 
 📢 *Confidential Report - For Internal Use Only*
+
